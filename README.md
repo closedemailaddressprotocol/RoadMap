@@ -17,3 +17,12 @@ This document will outline where this technology is as of October 2022 and where
 <tr><td valign=top>Sendmail configuration</td><td valign=top>Contemporary mail configurations.</td><td valign=top>A hosted version of this technology 'calicomail.com' did exist.<br/>
                                                                                  The hosted version used sendmail, what mailer daemons are in use now?</td></tr>
 </table>
+<br/>
+<b>Points Of Interest:</b><br/>
+<br/>
+<ul>
+  <li>Best symetric algorithm : implemented across multiple languages/technologies</li>
+  <li>Recreate an ESMTP Server from scratch or modify an existing Open Source ESMTP server : as an extension?</li>
+  <li>What browsers to create extensions for?  Edge / Opera / FireFox / Chrome</li>
+  <li>During beta testing Microsoft Exchange had an issue processing the # character on the address line.  Can Exchange be patched? : Extended?</li>
+</ul>
