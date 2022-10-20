@@ -11,7 +11,7 @@ This document will outline where this technology is as of October 2022 and where
                                      Find an existing Open Source ESMTP server and extend it?<br/>
                                      The original was written in Visual Basic 6.</td></tr>
 <tr><td valign=top>OEAG Open Email Address Generator</td><td valign=top>New browser extension.</td><td valign=top>Previously this was the weak link in the process.<br/>
-                                                                                 The OEAG a separate program had tp be user to generate the<br/>
+                                                                                 The OEAG a separate program had to be user to generate the<br/>
                                                                                  auth_hash#myuser@mydomain <br/>
                                                                                  This was a potential source of confusion.</td></tr>
 <tr><td valign=top>Sendmail configuration</td><td valign=top>Contemporary mail configurations.</td><td valign=top>A hosted version of this technology 'calicomail.com' did exist.<br/>
