@@ -6,7 +6,8 @@ This document will outline where this technology is as of October 2022 and where
 <table>
 <tr><th wrap=nowrap>Component</th><th wrap=nowrap>Update Required</th><th wrap=nowrap>Comments</th></tr>
 <tr><td valign=top>IIIKey</td><td valign=top>Replace with current symmetric encryption</td><td valign=top>IIIkey Homegrown algorithm of dubious quality.<br/>
-                                                                        Was useful to get authorization hash implemented across multiple components.</td></tr>
+                                                                        Was useful to get authorization hash implemented across multiple components.<br/>
+  Looks like could be replaced with base 64 ( SHA 256 ).</td></tr>
 <tr><td valign=top>Typhoon ESMTP Server</td><td valign=top>New ESMTP Server</td><td valign=top>Should a new Open Source version of Typhoon be created using .NET technology or Java?<br/>
                                      Find an existing Open Source ESMTP server and extend it?<br/>
                                      The original was written in Visual Basic 6.</td></tr>
