@@ -26,4 +26,6 @@ This document will outline where this technology is as of October 2022 and where
   <li>Recreate an ESMTP Server from scratch or modify an existing Open Source ESMTP server : as an extension?</li>
   <li>What browsers to create extensions for?  Edge / Opera / FireFox / Chrome</li>
   <li>During beta testing Microsoft Exchange had an issue processing the # character on the address line.  Can Exchange be patched? : Extended?</li>
+  <li>Phone App?</li>
+  <li>Authorization Hash as QR code?</li>
 </ul>
